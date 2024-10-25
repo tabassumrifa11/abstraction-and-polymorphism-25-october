@@ -29,7 +29,7 @@ R = Human()
 R.move()
 
 K = Snake()
-R.move()
+K.move()
 
 R = Dog()
 R.move()
